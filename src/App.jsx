@@ -1,8 +1,13 @@
 import { useState } from "react";
+import TodoContainer from "./Containers/TodoContainer";
 // import './App.css'
 
 function App() {
-	return <></>;
+	return (
+		<>
+			<TodoContainer />
+		</>
+	);
 }
 
 export default App;
