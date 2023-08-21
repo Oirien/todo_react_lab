@@ -1,6 +1,6 @@
 import { useState } from "react";
 import TodoContainer from "./Containers/TodoContainer";
-// import './App.css'
+import './App.css'
 
 function App() {
 	return (

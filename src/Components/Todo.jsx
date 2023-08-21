@@ -1,3 +1,5 @@
+import "../TodoItem.css"
+
 function Todo({ todo }) {
 	return (
 		<li key={todo.id} className={todo.priority}>

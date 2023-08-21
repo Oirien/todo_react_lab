@@ -1,0 +1,19 @@
+.high{
+    color: red;
+    list-style-type: none;
+    border: 2px solid red;
+    transition: 50ms;
+}
+.high:hover{
+    border-radius: 15px;
+}
+
+.low{
+    color: green;
+    list-style-type: none;
+    border: 2px solid green;
+    transition: 50ms;
+}
+.low:hover{
+    border-radius: 15px;
+}
